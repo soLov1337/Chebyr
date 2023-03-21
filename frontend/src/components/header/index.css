@@ -1,0 +1,13 @@
+.container_header h1{
+	margin: 0;
+}
+
+.container_header{
+	display: flex;
+	justify-content: space-between;
+	margin: 0 55px;
+}
+
+.korzina {
+	cursor: pointer;
+}
